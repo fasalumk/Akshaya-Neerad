@@ -1,0 +1,10 @@
+.logoContainer {
+  @apply flex flex-col items-center justify-center h-full w-full;
+    img {
+      @apply rounded-lg;
+    }
+    h2 {
+      @apply text-white font-bold text-center;
+    }
+  }
+  
