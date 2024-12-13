@@ -5,8 +5,8 @@ import { photos } from '../../assets/images';
 const HeroSection = () => {
   return (
     <div className="min-h-screen bg-gray-50 flex flex-col items-center justify-center px-4 py-20">
-      <div className="text-center">
-        <h1 className="text-4xl md:text-5xl font-black text-gray-800">
+      <div className="text-center ">
+        <h1 className="text-4xl md:text-5xl  font-black text-gray-800 font-sans">
            <span className="text-blue-500 font-black">AKSHAYA CENTRE</span> <br /> NEERAD
         </h1>
         <p className="mt-4 text-gray-600 text-lg max-w-xl mx-auto">
