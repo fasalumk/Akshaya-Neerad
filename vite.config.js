@@ -17,12 +17,12 @@ export default defineConfig({
   ],
 
   // Include specific asset types like .xlsx files
-  assetsInclude: ['**/*.xlsx'],
-
-  // Build output directory (default is 'dist')
   build: {
-    outDir: 'dist',  // Ensure the built files go into the dist directory
+    outDir: 'dist',
   },
+  server: {
+    historyApiFallback: true,
+  }
 
   // If you need additional configurations, like routing, you can add them here.
 });
