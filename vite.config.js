@@ -17,6 +17,9 @@ export default defineConfig({
   ],
 
   // Include specific asset types like .xlsx files
+  build: {
+    outDir: 'dist',
+  },
 
   // If you need additional configurations, like routing, you can add them here.
 });
