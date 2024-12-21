@@ -16,13 +16,7 @@ function DateandTime() {
     <div className="bg-white p-4 shadow-lg text-center h-28 flex flex-col items-center justify-center">
       {/* Styled Box for "Logged in" with Excel download link */}
       <div className="bg-red-600 text-xs border h-7 w-24 text-white font-bold rounded-md mb-1 flex items-center justify-center">
-        <a
-          href={photos.excel}
-          download="#"
-          className="text-white"
-        >
           Logged in
-        </a>
       </div>
       {/* Flexbox for Date and Time */}
       <div className="justify-center items-center gap-8">
