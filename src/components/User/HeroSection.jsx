@@ -9,7 +9,7 @@ const HeroSection = () => {
         <h1 className="text-4xl md:text-5xl  font-black text-gray-800 font-sans">
            <span className="text-blue-500 font-black">AKSHAYA CENTRE</span> <br /> NEERAD
         </h1>
-        <p className="mt-4 text-gray-600 text-lg max-w-xl mx-auto">
+        <p className="mt-4 text-gray-600 text-lg max-w-xl mx-auto font-sans">
         Akshaya Centers have been emerged as a finest network of effective Common Service Centers (CSC) envisioned to deliver a multitude of G2C, G2B as well as B2C services to the public under a single roof.
         </p>
       </div>

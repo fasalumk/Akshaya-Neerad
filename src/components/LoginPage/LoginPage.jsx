@@ -20,7 +20,7 @@ const LoginPage = ({ setIsLoggedIn }) => {
   
     // Get the username and password from environment variables
     const validUsername = import.meta.env.REACT_APP_VALID_USERNAME;
-    const validPassword = import.meta.env.REACT_APP_VALID_PASSWORD;
+    const validPassword = import.meta.env.REACT_APP_VALID_PASSCODE;
   
     if (username === validUsername && password === validPassword) {
       setIsLoggedIn(true);
