@@ -21,7 +21,7 @@ function LocationPage() {
           <div className="w-full lg:w-1/2 h-2/3 lg:h-full mb-8 lg:mb-0">
             <iframe
               title="Akshaya Location"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3916.3841471250476!2d75.76955727412252!3d11.258177491715366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba65c189e0ba099%3A0xf3a88d42cfb14609!2sThe%20Art%20School!5e0!3m2!1sen!2sin!4v1695207314927!5m2!1sen!2sin"
+              src="https://maps.app.goo.gl/k2ZcyH9f9o2izTA97"
               width="100%"
               height="100%"
               style={{ border: 0 }}
@@ -39,8 +39,8 @@ function LocationPage() {
               <h1 className="text-2xl font-bold text-gray-800">Contact</h1>
               <p className="text-gray-600">
                 Phone:{" "}
-                <a href="tel:08281310003" className="text-blue-500">
-                  082813 10003
+                <a href="tel:+919497555535" className="text-blue-500">
+                  94975 55535
                 </a>
               </p>
             </div>
