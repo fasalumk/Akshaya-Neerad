@@ -20,6 +20,9 @@ export default defineConfig({
   build: {
     outDir: 'dist',
   },
+  server: {
+    historyApiFallback: true,
+  }
 
   // If you need additional configurations, like routing, you can add them here.
 });
