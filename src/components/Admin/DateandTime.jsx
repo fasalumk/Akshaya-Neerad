@@ -18,7 +18,7 @@ function DateandTime() {
       <div className="bg-red-600 text-xs border h-7 w-24 text-white font-bold rounded-md mb-1 flex items-center justify-center">
         <a
           href={photos.excel}
-          download="LULU INVOICE.xlsm"
+          download="#"
           className="text-white"
         >
           Logged in
