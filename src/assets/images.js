@@ -8,7 +8,6 @@ import Passport from './ServicesImages/passport.jpg'
 import Aadhaarpng from './Badges/AADHAR LOGO PNG.png'
 import Itmissionpng from './Badges/IT MISSION LOGO.png'
 import Cscpng from './Badges/CSC PNG.png'
-import excel from './LULU INVOICE.xlsm.xlsx'
 
 export const photos={
     BG,
@@ -21,5 +20,4 @@ export const photos={
     Aadhaarpng,
     Itmissionpng,
     Cscpng,
-    excel,
 }
