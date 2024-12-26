@@ -21,7 +21,7 @@ function LocationPage() {
           <div className="w-full lg:w-1/2 h-2/3 lg:h-full mb-8 lg:mb-0">
             <iframe
               title="Akshaya Location"
-              src="https://maps.app.goo.gl/k2ZcyH9f9o2izTA97"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3914.2167617790215!2d75.9677855187371!3d11.17158033478202!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba64f002a849405%3A0x280816bcddde9ed9!2sAKSHAYA%20CENTRE%20NEERAD!5e0!3m2!1sen!2sin!4v1735190665661!5m2!1sen!2sin"
               width="100%"
               height="100%"
               style={{ border: 0 }}
